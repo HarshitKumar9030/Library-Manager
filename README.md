@@ -15,7 +15,7 @@
 
 
      Author:
-            - instagram - @harshit_kumarofficial
+           - instagram - @harshit_kumarofficial
 	       - github - @harshitkumar9030
 	       - twitter - @OhHarshit	
 	       - replit - @OhHarshit
